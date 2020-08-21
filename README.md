@@ -20,7 +20,7 @@
 
 <br />
 
-### Languages and Tools:
+### Technologies:
 
 [<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />]()
 [<img align="left" alt="GCP" width="30px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />]()
