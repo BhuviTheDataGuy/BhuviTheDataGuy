@@ -37,6 +37,11 @@
 
 ##  Recent Blog posts - From my personal blog
 <!-- BLOG-POST-LIST:START -->
+- [Backup RedShift Objects To GitHub With Lambda](https://thedataguy.in/backup-redshift-objects-to-github-with-lambda/)
+- [BigQuery Data Pipeline Without Any Orchestrator Just CloudFunction And PubSub](https://thedataguy.in/bigquery-data-pipeline-without-any-orchestrator-just-cloudfunction-pubsub/)
+- [GCP Convert StackDriver Log Sink As Hive Partition In GCS](https://thedataguy.in/gcp-convert-stackdriver-log-sink-hive-partition-in-gcs/)
+- [AWS RDS pg_dump ERROR LOCK TABLE IN ACCESS SHARE MODE for rds_superuser](https://thedataguy.in/aws-rds-pg_dump-error-lock-table-access-share-mode/)
+- [How To Restore MySQL Users And Passwords During Migration](https://thedataguy.in/how-to-restore-mysql-users-passwords-during-migration/)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Recent Blog posts - From Medium
