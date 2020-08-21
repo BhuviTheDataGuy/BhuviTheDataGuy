@@ -15,4 +15,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEDIUM-POST-LIST
-          feed_list: "https://thedataguy.in/atom.xml"
+          feed_list: "https://medium.com/feed/@BhuviTheDataGuy"
