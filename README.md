@@ -13,7 +13,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="thedataguy.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](thedataguy.in)
+[<img align="left" alt="thedataguy.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://thedataguy.in)
 [<img align="left" alt="BhuviTheDataGuy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/BhuviTheDataGuy)
 [<img align="left" alt="rbhuvanesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/rbhuvanesh)
 [<img align="left" alt="BhuviTheDataGuy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/BhuviTheDataGuy)
