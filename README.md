@@ -5,10 +5,10 @@
 
 ## Im a DBA, Cloud and Data Architect!
 
-- 🔭 I’m currently working on all Data related projects
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate with Data Engineers
-- 💬 Ask me about Cloud and Data
+- 🔭 I enjoy solving complex data problems on AWS, GCP and Azure
+- 🌱 Currently working on enhancing my expertise with Python by building utilities like [BQconvert](https://github.com/searceinc/BQconvert)
+- 👯 I am passionate about tech and love contributing back to the community. Open for collaboration. 
+- 💬 Ask me about AWS, GCP, Azure and Data
 - 😄 Fun fact: I love to eat Pizza🍕 more than three times in a day
 
 ### Connect with me:
