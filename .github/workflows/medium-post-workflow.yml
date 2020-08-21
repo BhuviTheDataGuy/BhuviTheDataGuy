@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: medium blog post workflow
 on:
   schedule:
     # Runs every hour
@@ -6,7 +6,7 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest medium posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
