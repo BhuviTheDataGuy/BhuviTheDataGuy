@@ -1,0 +1,18 @@
+name: medium-push
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-medium:
+    name: Update this repo's README with latest medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: MEDIUM-POST-LIST
+          feed_list: "https://thedataguy.in/atom.xml"
