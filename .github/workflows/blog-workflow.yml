@@ -1,5 +1,7 @@
-name: Latest blog post workflow
+name: blog-push
 on:
+  push:
+    branches: [ master ]
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
