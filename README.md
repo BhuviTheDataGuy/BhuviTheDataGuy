@@ -33,4 +33,12 @@
 [<img align="left" alt="Hadoop" width="30px" src="https://seeklogo.com/images/H/hadoop-logo-D36814CB84-seeklogo.com.png" />]()
 [<img align="left" alt="shell" width="30px" src="https://seeklogo.com/images/T/terminal-logo-D3918B1E3A-seeklogo.com.png" />]()
 
+<br />
 
+##  Recent Blog posts - From my personal blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+##  Recent Blog posts - From Medium
+<!-- MEDIUM-POST-LIST:START -->
+<!-- MEDIUM-POST-LIST:END -->
