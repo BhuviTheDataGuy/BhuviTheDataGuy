@@ -41,7 +41,7 @@
 
 ##  Recent Blog posts - From my personal blog
 <!-- BLOG-POST-LIST:START -->
-- [Backup RedShit System Tables Incrementally](https://thedataguy.in/backup-redshit-system-tables-incrementally/)
+- [Backup RedShift System Tables Incrementally](https://thedataguy.in/backup-redshift-system-tables-incrementally/)
 - [Backup RedShift Objects To GitHub With Lambda](https://thedataguy.in/backup-redshift-objects-to-github-with-lambda/)
 - [BigQuery Data Pipeline Without Any Orchestrator Just CloudFunction And PubSub](https://thedataguy.in/bigquery-data-pipeline-without-any-orchestrator-just-cloudfunction-pubsub/)
 - [GCP Convert StackDriver Log Sink As Hive Partition In GCS](https://thedataguy.in/gcp-convert-stackdriver-log-sink-hive-partition-in-gcs/)
