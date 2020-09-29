@@ -38,6 +38,7 @@
 [<img align="left" alt="Terminal" width="30px" src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" />]()
 
 <br />
+<br />
 
 ##  Recent Blog posts - From my personal blog
 <!-- BLOG-POST-LIST:START -->
