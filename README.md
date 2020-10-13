@@ -42,11 +42,11 @@
 
 ##  Recent Blog posts - From my personal blog
 <!-- BLOG-POST-LIST:START -->
+- [CloudSQL Shared VPC Private IP And servicenetworking.serviceAgent role](https://thedataguy.in/cloudsql-shared-vpc-private-ip-and-servicenetworking.serviceagent-role/)
 - [Access CloudSQL PostgreSQL FDW From Different VPC Or Public](https://thedataguy.in/access-cloudsql-postgresql-fdw-from-different-vpc-or-public/)
 - [RedShift COPY Command From SCT Agent - Multiple Tables](https://thedataguy.in/redshift-copy-command-from-sct-agent-multiple-tables/)
 - [Backup RedShift System Tables Incrementally](https://thedataguy.in/backup-redshift-system-tables-incrementally/)
 - [Backup RedShift Objects To GitHub With Lambda](https://thedataguy.in/backup-redshift-objects-to-github-with-lambda/)
-- [BigQuery Data Pipeline Without Any Orchestrator Just CloudFunction And PubSub](https://thedataguy.in/bigquery-data-pipeline-without-any-orchestrator-just-cloudfunction-pubsub/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thedataguy.in)
