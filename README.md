@@ -56,7 +56,6 @@
 - [Monitoring GCP CloudSQL PostgreSQL with Percona PMM](https://medium.com/searce/monitoring-gcp-cloudsql-postgresql-with-percona-pmm-923d79a80881?source=rss-a91d41722a05------2)
 - [Optimize Your RDS MySQL To GCP CloudSQL Migration](https://medium.com/searce/optimize-your-rds-mysql-to-gcp-cloudsql-migration-f39cb4b61161?source=rss-a91d41722a05------2)
 - [Introducing BQconvert — BigQuery Schema Converter Tool](https://medium.com/searce/introducing-bqconvert-bigquery-schema-converter-tool-a6e1f02d33e1?source=rss-a91d41722a05------2)
-- [Case Study: Migrating A Giant Netezza Warehouse To AWS RedShift](https://medium.com/searce/case-study-migrating-a-giant-netezza-warehouse-to-aws-redshift-fe41391e2f65?source=rss-a91d41722a05------2)
 <!-- MEDIUM-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/Bhuvithedataguy)
