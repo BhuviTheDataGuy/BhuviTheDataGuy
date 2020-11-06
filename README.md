@@ -53,6 +53,7 @@
 
 ##  Recent Blog posts - From Medium
 <!-- MEDIUM-POST-LIST:START -->
+- [Grafana Dashboard for Pgbouncer And Monitor With Percona PMM](https://medium.com/searce/grafana-dashboard-for-pgbouncer-and-monitor-with-percona-pmm-3170d3eb4d14?source=rss-a91d41722a05------2)
 - [Monitoring GCP CloudSQL PostgreSQL with Percona PMM](https://medium.com/searce/monitoring-gcp-cloudsql-postgresql-with-percona-pmm-923d79a80881?source=rss-a91d41722a05------2)
 - [Optimize Your RDS MySQL To GCP CloudSQL Migration](https://medium.com/searce/optimize-your-rds-mysql-to-gcp-cloudsql-migration-f39cb4b61161?source=rss-a91d41722a05------2)
 - [Introducing BQconvert — BigQuery Schema Converter Tool](https://medium.com/searce/introducing-bqconvert-bigquery-schema-converter-tool-a6e1f02d33e1?source=rss-a91d41722a05------2)
