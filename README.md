@@ -42,11 +42,11 @@
 
 ##  Recent Blog posts - From my personal blog
 <!-- BLOG-POST-LIST:START -->
+- [Migrate Greenplum Partitions To BigQuery With Airflow/Python](https://thedataguy.in/migrate-greenplum-partitions-to-bigquery-with-airflow-python/)
 - [Airflow BigQueryHook And Operator To Create Range Partition](https://thedataguy.in/airflow-bigqueryhook-operator-to-create-range-partition/)
 - [Airflow Custom PostgreSQL To Google Cloud Storage Operator](https://thedataguy.in/airflow-custom-postgresqltogcs-operator-data-type-conversion/)
 - [Migrate 5TB ElasticSearch Cluster In GCP With Disk Snapshot](https://thedataguy.in/migrate-elasticsearch-cluster-in-gcp-with-disk-snapshot/)
 - [CloudSQL Shared VPC Private IP And servicenetworking.serviceAgent role](https://thedataguy.in/cloudsql-shared-vpc-private-ip-and-servicenetworking.serviceagent-role/)
-- [Access CloudSQL PostgreSQL FDW From Different VPC Or Public](https://thedataguy.in/access-cloudsql-postgresql-fdw-from-different-vpc-or-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thedataguy.in)
