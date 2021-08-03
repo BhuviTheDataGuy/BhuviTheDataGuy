@@ -42,7 +42,7 @@
 
 ##  Recent Blog posts - From my personal blog
 <!-- BLOG-POST-LIST:START -->
-- [Integrate Debezium And Sink Connecters With AWS Glue Schema Registry](https://thedataguy.in/integrate-debezium-and-sink-connecters-with-aws-glue-schema-registry/)
+- [Integrate Debezium And Sink Connectors With AWS Glue Schema Registry](https://thedataguy.in/integrate-debezium-and-sink-connectors-with-aws-glue-schema-registry/)
 - [Integrate Debezium with AWS Secret Manager For Retrieving Passwords](https://thedataguy.in/integrate-debezium-with-aws-secret-manager-for-retrieving-passwords/)
 - [Airflow PostgreSQL to BigQuery Dynamically Generate DAGs and Tasks](https://thedataguy.in/airflow-postgresql-to-bigquery-dynamically-generate-dags-and-tasks/)
 - [Use AWS Glue DataBrew To Remove Any Sensitive And PII Information](https://thedataguy.in/aws-glue-databrew-to-remove-any-sensitive-and-pii-information/)
